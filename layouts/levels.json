@@ -1,0 +1,53 @@
+{
+    "levels_grid": {
+        "type": "array",
+        "orientation": "vertical",
+        "margin": "0,0",
+        "content": [
+            {
+                "type": "array",
+                "orientation": "horizontal",
+                "margin": "0,0",
+                "content": [
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "2, 2",
+						"item_height": 10,
+						"item_width": 170,
+                        "h_alignment": "left",
+                        "item_h_alignment": "center",
+                        "rows": [
+                            [
+                                "lvlfoundry"
+                            ],
+                            [
+                                "lvlla"
+                            ],
+                            [
+                                "lvlrio"
+                            ],
+                            [
+                                "lvlsuburbia"
+                            ],
+							[
+                                "lvlairport"
+                            ],
+							[
+                                "lvlsi"
+                            ],
+							[
+                                "lvlcanada"
+                            ],
+							[
+                                "lvltokyo"
+                            ],
+							[
+                                "lvldownhill"
+                            ]
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

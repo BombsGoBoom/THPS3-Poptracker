@@ -1,0 +1,36 @@
+{
+    //sets the layout for the broadcast view
+    "tracker_broadcast": {
+        "type": "array",
+        "orientation": "vertical",
+        "margin": "0,0",
+        "content": [
+          {
+            "type": "itemgrid",
+            "h_alignment": "left",
+            "item_margin": "1,2",
+			"item_height": 30,
+			"item_width": 500,
+            "rows": [
+              ["lvlfoundry"],
+              ["lvlla"],
+              ["lvlrio"],
+              ["lvlsuburbia"],
+              ["lvlairport"],
+              ["lvlsi"],
+              ["lvlcanada"],
+              ["lvltokyo"],
+              ["lvldownhill"]
+            ]
+          },
+		  {
+            "type": "itemgrid",
+            "h_alignment": "left",
+            "item_margin": "1,2",
+            "rows": [
+              ["stat", "", "riobronze", "riosilver", "riogold", "", "sibronze", "sisilver", "sigold", "", "tokyobronze", "tokyosilver", "tokyogold"]
+            ]
+          }
+        ]
+    }
+}

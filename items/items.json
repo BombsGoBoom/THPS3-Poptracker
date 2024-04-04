@@ -1,0 +1,128 @@
+[
+	{
+		"name": "Bronze",
+		"type": "toggle",
+		"img": "/images/items/Bronze.png",
+		"codes": "riobronze"
+	},
+	{
+		"name": "Bronze",
+		"type": "toggle",
+		"img": "/images/items/Bronze.png",
+		"codes": "sibronze"
+	},
+	{
+		"name": "Bronze",
+		"type": "toggle",
+		"img": "/images/items/Bronze.png",
+		"codes": "tokyobronze"
+	},
+	{
+		"name": "Silver",
+		"type": "toggle",
+		"img": "/images/items/Silver.png",
+		"codes": "riosilver"
+	},
+	{
+		"name": "Silver",
+		"type": "toggle",
+		"img": "/images/items/Silver.png",
+		"codes": "sisilver"
+	},
+	{
+		"name": "Silver",
+		"type": "toggle",
+		"img": "/images/items/Silver.png",
+		"codes": "tokyosilver"
+	},
+	{
+		"name": "Gold",
+		"type": "toggle",
+		"img": "/images/items/Gold.png",
+		"codes": "riogold"
+	},
+	{
+		"name": "Gold",
+		"type": "toggle",
+		"img": "/images/items/Gold.png",
+		"codes": "sigold"
+	},
+	{
+		"name": "Gold",
+		"type": "toggle",
+		"img": "/images/items/Gold.png",
+		"codes": "tokyogold"
+	},
+	{
+        "name": "Stat Point",
+        "type": "consumable",
+        "img": "images/items/Stat.png",
+        "max_quantity": 50,
+        "increment": 1,
+		"decrement": 1,
+        "initial_quantity": 0,
+        "overlay_font_size": 20,
+        "codes": "stat"
+    },
+	{
+		"name": "Foundry",
+		"type": "toggle",
+		"initial_active_state": true,
+		"img": "/images/levels/LvlFoundry.png",
+		"codes": "lvlfoundry"
+	},
+	{
+		"name": "Los Angeles",
+		"type": "toggle",
+		"img": "/images/levels/LvLLosAngeles.png",
+		"codes": "lvlla"
+	},
+	{
+		"name": "Rio de Janeiro",
+		"type": "toggle",
+		"img": "/images/levels/LvLRioDeJaneiro.png",
+		"codes": "lvlrio"
+	},
+	{
+		"name": "Suburbia",
+		"type": "toggle",
+		"img": "/images/levels/LvlSuburbia.png",
+		"codes": "lvlsuburbia"
+	},
+	{
+		"name": "Airport",
+		"type": "toggle",
+		"img": "/images/levels/LvlAirport.png",
+		"codes": "lvlairport"
+	},
+	{
+		"name": "Skater Island",
+		"type": "toggle",
+		"img": "/images/levels/LvlSkaterIsland.png",
+		"codes": "lvlsi"
+	},
+	{
+		"name": "Canada",
+		"type": "toggle",
+		"img": "/images/levels/LvlCanada.png",
+		"codes": "lvlcanada"
+	},
+	{
+		"name": "Tokyo",
+		"type": "toggle",
+		"img": "/images/levels/LvlTokyo.png",
+		"codes": "lvltokyo"
+	},
+	{
+		"name": "Downhill",
+		"type": "toggle",
+		"img": "/images/levels/LvlDownhill.png",
+		"codes": "lvldownhill"
+	},
+	{
+		"name": "Gapsanity",
+		"type": "toggle",
+		"img": "/images/settings/Gapsanity.png",
+		"codes": "gapsanity"
+	}
+]
